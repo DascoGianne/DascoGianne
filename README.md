@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Gianne!
+<h1 align="center" style="font-size: 3rem;">👋 Hi, I'm Gianne!</h1>
+
 
 🎓 **BS Information Technology Student** | PUP Sta. Mesa  
 🔢 **Age:** 21 | 🌸 **Pronouns:** She/Her
