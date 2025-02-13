@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 4rem; color: #9b59b6;">👋 Hi, I'm Gianne!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150"/>
+  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRmMWd3ZXQ5cGM0aHoyNXFsYm01eTI4YzVyM2JsbnVqNHFmdmwzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/srV1G3EnqSLtL11Nsx/giphy.gif)" width="150" height="150"/>
 </p>
 
 <p align="center" style="font-size: 1.2rem; color: #8e44ad;">
