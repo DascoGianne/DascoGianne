@@ -53,6 +53,3 @@
 
 ---
 
-<p align="center" style="color: #9b59b6;"> Thank you for visiting! </p>
-
-
