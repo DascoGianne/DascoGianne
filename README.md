@@ -1,36 +1,58 @@
-<h1 align="center" style="font-size: 3rem;">👋 Hi, I'm Gianne!</h1>
+<h1 align="center" style="font-size: 4rem; color: #9b59b6;">👋 Hi, I'm Gianne!</h1>
 
-
-🎓 **BS Information Technology Student** | PUP Sta. Mesa  
-🔢 **Age:** 21 | 🌸 **Pronouns:** She/Her
-
-🌱 **Currently Learning:** Python, Java, HTML, CSS
-
-
-### 🧑‍💻 Languages and Tools:
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150"/>
 </p>
 
+<p align="center" style="font-size: 1.2rem; color: #8e44ad;">
+  🎓 <strong>BS Information Technology Student</strong> | PUP Sta. Mesa <br>
+  🔢 <strong>Age:</strong> 21 | 🌸 <strong>Pronouns:</strong> She/Her
+</p>
 
-### 📫 Reach Me At:
-<p align="left">
+<p align="center">
+  🌱 <strong>Currently Learning:</strong> Python, Java, HTML, CSS
+</p>
+
+---
+
+### 💻 Languages and Tools I Use:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
+
+---
+
+### 🌸 Let's Connect!
+<p align="center">
   <a href="https://www.linkedin.com/in/gianne-dasco/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/GigiDasco20" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-8e44ad?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@crizzleeeedsc?_t=ZS-8ts4hnZvVpf&_r=1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/TikTok-9b59b6?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/crizzledsc?igsh=aXl6OWxycGttOGQy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+### ✨ Aesthetic Vibes:
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" height="150"/>
+  <img src="https://media.giphy.com/media/l0MYRzcWPn3sH8FrG/giphy.gif" width="150" height="150"/>
+  <img src="https://media.giphy.com/media/j5q3XZBqU7vtW/giphy.gif" width="150" height="150"/>
+</p>
+
+---
+
+<p align="center" style="color: #9b59b6;">✨ Thank you for visiting! ✨</p>
 
 
