@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Gianne!
 
-🎓 **BS Information Technology Student** | PUP Sta. Mesa
+🎓 **BS Information Technology Student** | PUP Sta. Mesa  
+🔢 **Age:** 21 | 🌸 **Pronouns:** She/Her
 
 🌱 **Currently Learning:** Python, Java, HTML, CSS
 
