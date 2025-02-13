@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/56/ef/16/56ef16ccc70e6bd97f40bd286942979f.jpg" alt="Banner" width="60%" />
-</p>
-
 <h1 align="center" style="font-size: 4rem; color: #9b59b6;"> Hi, I'm Gianne!</h1>
 
 <p align="center">
@@ -58,3 +54,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/56/ef/16/56ef16ccc70e6bd97f40bd286942979f.jpg" alt="Banner" width="60%" />
+</p>
