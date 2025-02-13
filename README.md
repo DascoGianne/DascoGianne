@@ -18,8 +18,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNpNmRheW5zbmt0dDN2MTZjanlpczRjYzlyZHRwNWRlbGhzbTJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJKsXTsaDaR8CgypKu/giphy.gif" alt="Coffee" width="150" height="150"/>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhlN2tkNXZsN3o1Yjl4N2xicnV0MWZ3YnB1bWwyYjFwZnR6M3puaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b2OfgTuVzqpVXq/giphy.gif" alt="Reading" width="150" height="150"/>
- <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dieHhlYnE5c2Q1dnFnMDh2YzhlcDkwd2VueTZtNnpiMDRjbDdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xf9RVHymCWoPm5SZeY/giphy.gif" alt="Studying" width="150" height="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNqODBoNmticjg1NDJwNWM1cXB6bzBkbWR1aTB3dml5NnJkd25zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" alt="Studying" width="150" height="150"/>
 </p>
 
 
