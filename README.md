@@ -16,10 +16,9 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Coffee Lover" width="150" height="150"/>
-  <img src="https://media3.giphy.com/media/1Ay1JoFnfCl4uA3cZx/giphy.gif" alt="Reading Books" width="150" height="150"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDR2cXQxZGRpOTV4N2FhbmtnaDcwNjd1ZjdzZWtmbXlqeHhhOTM2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" alt="Studying" width="150" height="150"/>
-  <img src="https://media1.giphy.com/media/l0HeeM68A0QlLtM4o/giphy.gif" alt="Content Creation" width="150" height="150"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNpNmRheW5zbmt0dDN2MTZjanlpczRjYzlyZHRwNWRlbGhzbTJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJKsXTsaDaR8CgypKu/giphy.gif" alt="Coffee" width="150" height="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhlN2tkNXZsN3o1Yjl4N2xicnV0MWZ3YnB1bWwyYjFwZnR6M3puaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b2OfgTuVzqpVXq/giphy.gif" alt="Reading" width="150" height="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJpanFkOWp2OHYwMGp4Y3B1b2o0OHU3bzc5dXlhbml0MTA1YmplYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErH72HBgjl3WhtS/giphy.gif" alt="Studying" width="150" height="150"/>
 </p>
 
 ### 💻 Languages and Tools I Use:
