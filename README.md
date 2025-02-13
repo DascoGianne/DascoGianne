@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="center" style="background: -webkit-linear-gradient(45deg, #f06, #4a90e2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💻 Languages and Tools I Use</h3>
+### 💻 Languages and Tools
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
