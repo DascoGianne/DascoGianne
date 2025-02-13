@@ -14,10 +14,12 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Coffee Lover" width="150" height="150"/>
+  <img src="https://media3.giphy.com/media/1Ay1JoFnfCl4uA3cZx/giphy.gif" alt="Reading Books" width="150" height="150"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDR2cXQxZGRpOTV4N2FhbmtnaDcwNjd1ZjdzZWtmbXlqeHhhOTM2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" alt="Studying" width="150" height="150"/>
+  <img src="https://media1.giphy.com/media/l0HeeM68A0QlLtM4o/giphy.gif" alt="Content Creation" width="150" height="150"/>
 </p>
 
 ### 💻 Languages and Tools I Use:
