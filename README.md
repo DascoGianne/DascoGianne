@@ -2,7 +2,7 @@
 
 BS Info Tech student | PUP STA. MESA
 
-🌱 I’m currently learning 
+🌱 I’m currently learning Python, Java, HTML, and CSS
 
 📫 Reach me at: 
 
