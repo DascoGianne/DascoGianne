@@ -44,15 +44,6 @@
 
 ---
 
-### ✨ Aesthetic Vibes:
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" height="150"/>
-  <img src="https://media.giphy.com/media/l0MYRzcWPn3sH8FrG/giphy.gif" width="150" height="150"/>
-  <img src="https://media.giphy.com/media/j5q3XZBqU7vtW/giphy.gif" width="150" height="150"/>
-</p>
-
----
-
 <p align="center" style="color: #9b59b6;">✨ Thank you for visiting! ✨</p>
 
 
