@@ -33,7 +33,7 @@
 
 ---
 
-### 🌸 Let's Connect!
+### Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/gianne-dasco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -51,6 +51,6 @@
 
 ---
 
-<p align="center" style="color: #9b59b6;">✨ Thank you for visiting! ✨</p>
+<p align="center" style="color: #9b59b6;"> Thank you for visiting! </p>
 
 
