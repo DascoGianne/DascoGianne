@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🌱 <strong>Currently Learning:</strong> Python, Java, HTML, CSS
+  🌱 <strong>Currently Learning:</strong> Python, MySQL, HTML, CSS
 </p>
 
 ---
