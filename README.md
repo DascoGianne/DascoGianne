@@ -6,7 +6,7 @@
 
 <p align="center" style="font-size: 1.2rem; color: #8e44ad;">
   🎓 <strong>BS Information Technology Student</strong> | PUP Sta. Mesa <br>
-  🔢 <strong>Age:</strong> 21 | 🌸 <strong>Pronouns:</strong> She/Her
+  🔢 <strong>Age:</strong> 22 | 🌸 <strong>Pronouns:</strong> She/Her
 </p>
 
 <p align="center">
