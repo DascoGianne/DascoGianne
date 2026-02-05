@@ -9,10 +9,6 @@
   🔢 <strong>Age:</strong> 22 | 🌸 <strong>Pronouns:</strong> She/Her
 </p>
 
-<p align="center">
-  🌱 <strong>Currently Learning:</strong> Python, HTML, and CSS
-</p>
-
 ---
 
 <p align="center">
