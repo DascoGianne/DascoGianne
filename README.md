@@ -38,11 +38,11 @@ with an interest in turning ideas into organized, practical, and meaningful solu
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/gianne-dasco/)">
   <img src="https://img.shields.io/badge/LinkedIn-A8131C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:crizzlegianne@gmail.com">
   <img src="https://img.shields.io/badge/Email-7A1016?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
