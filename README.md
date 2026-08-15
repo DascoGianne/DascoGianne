@@ -1,72 +1,199 @@
-# Gianne Crizzle Dasco
+<!--
+=================================================
+GIANNE CRIZZLE DASCO
+GitHub Profile README
+Editorial / Dashboard Style
+=================================================
+-->
 
-> Information Technology student with interests in technology, project management, business, marketing, and design.
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B31217?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-7A0C12?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+# GIANNE CRIZZLE DASCO
 
----
+### Information Technology · Project Management · Business · Strategy
 
-## Profile
+`BS Information Technology`  
+`Polytechnic University of the Philippines – Manila`
 
-I am a Bachelor of Science in Information Technology student at the Polytechnic University of the Philippines – Manila. My experience spans technical development, project leadership, communication, and strategy. I enjoy contributing to projects where I can help build solutions, organize teams, and turn ideas into something practical and meaningful.
+</div>
 
-I am particularly interested in opportunities that allow me to strengthen my technical foundation while continuing to grow in leadership, collaboration, and problem-solving.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=D71920" width="100%"/>
 
----
+<br>
 
-## Areas of Interest
+<table>
+<tr>
+<td width="62%" valign="top">
 
-- Web Development
-- Full-Stack Development
-- UI/UX Design
-- Project Management
-- Business and Product Strategy
-- Marketing and Content Strategy
-- Leadership and Communication
+## 01 / PROFILE
 
----
+I am an **Information Technology student** with experience and interests across technology, project management, business, marketing, and design.
 
-## Technical Skills
+I enjoy working on ideas from different perspectives — understanding the problem, organizing the people involved, developing or designing solutions, and communicating them clearly.
 
-**Languages and Development**
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+My goal is to continue strengthening my technical capabilities while developing as a leader who can connect **technology, people, and strategy**.
 
-**Tools**
-- VS Code
-- Figma
-- Notion
-- Canva
-- Blender
+</td>
 
----
+<td width="38%" valign="top">
 
-## Strengths
+## 02 / CURRENTLY
 
-- Project and team coordination
-- Public speaking and presentations
-- Hosting and event communication
-- Strategic thinking
-- Collaboration across technical and non-technical teams
-- Organization and leadership
+**Learning**  
+Full-stack development and emerging technologies
 
----
+**Developing**  
+Technical leadership and project management
 
-## Current Focus
+**Exploring**  
+Technology, business, product, and innovation
 
-```text
-learning:
-- strengthening technical foundations
-- improving full-stack development skills
-- exploring new technologies
+**Building**  
+Practical experience through collaborative work
 
-developing:
-- leadership and team management
-- project execution
-- communication and presentation skills
-- practical industry knowledge
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0A0D" width="100%"/>
+
+## 03 / TECH STACK
+
+### Development
+
+![HTML5](https://img.shields.io/badge/HTML5-D71920?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9F111B?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B0A0D?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D71920?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-9F111B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Design & Productivity
+
+![Figma](https://img.shields.io/badge/Figma-D71920?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-9F111B?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-3B0A0D?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-161B22?style=for-the-badge&logo=notion&logoColor=white)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0A0D" width="100%"/>
+
+## 04 / WHAT I BRING
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### TECHNOLOGY
+
+Web Development  
+Frontend Development  
+Full-Stack Development  
+UI/UX Design  
+Technical Planning  
+
+</td>
+
+<td width="25%" valign="top">
+
+### MANAGEMENT
+
+Project Management  
+Team Coordination  
+Organization  
+Project Execution  
+Decision-Making  
+
+</td>
+
+<td width="25%" valign="top">
+
+### STRATEGY
+
+Business Strategy  
+Product Ideation  
+Marketing Strategy  
+Content Strategy  
+Problem-Solving  
+
+</td>
+
+<td width="25%" valign="top">
+
+### COMMUNICATION
+
+Public Speaking  
+Hosting  
+Pitching  
+Presentations  
+Team Communication  
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0A0D" width="100%"/>
+
+## 05 / PROFESSIONAL DIRECTION
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Technology × People
+
+I am interested in technology not only as a development discipline, but also as a tool for solving real problems and improving experiences.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Strategy × Execution
+
+I enjoy translating ideas into organized plans, coordinating people, and helping move projects from concept toward execution.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **I am building a career at the intersection of technology, leadership, business, and strategy.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0A0D" width="100%"/>
+
+## 06 / GITHUB
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D71920&icon_color=F04444&text_color=F0F0F0"/>
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=D71920&text_color=F0F0F0"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0A0D" width="100%"/>
+
+## 07 / CONNECT
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-D71920?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/EMAIL-9F111B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br>
+
+<div align="right">
+
+`LEARN / BUILD / LEAD / GROW`
+
+</div>
