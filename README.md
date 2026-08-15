@@ -1,55 +1,124 @@
-<h1 align="center" style="font-size: 4rem; color: #9b59b6;"> Hi, I'm Gianne!</h1>
+<!--
+========================================
+Gianne Crizzle Dasco
+GitHub Profile README
+Theme: Black / Red
+========================================
+-->
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRmMWd3ZXQ5cGM0aHoyNXFsYm01eTI4YzVyM2JsbnVqNHFmdmwzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/srV1G3EnqSLtL11Nsx/giphy.gif" width="100" height="100"/>
-</p>
+<div align="center">
 
-<p align="center" style="font-size: 1.2rem; color: #8e44ad;">
-  🎓 <strong>BS Information Technology Student</strong> | PUP Sta. Mesa <br>
-  🔢 <strong>Age:</strong> 22 | 🌸 <strong>Pronouns:</strong> She/Her
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B0D,45:300006,75:8B000F,100:E31B23&text=Hello,%20I'm%20Gianne.&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Information%20Technology%20%7C%20Leadership%20%7C%20Business&descAlignY=58&descSize=15"/>
 
----
+### BS Information Technology
+**Polytechnic University of the Philippines – Manila**
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNpNmRheW5zbmt0dDN2MTZjanlpczRjYzlyZHRwNWRlbGhzbTJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJKsXTsaDaR8CgypKu/giphy.gif" alt="Coffee" width="150" height="150"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhlN2tkNXZsN3o1Yjl4N2xicnV0MWZ3YnB1bWwyYjFwZnR6M3puaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b2OfgTuVzqpVXq/giphy.gif" alt="Reading" width="150" height="150"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNqODBoNmticjg1NDJwNWM1cXB6bzBkbWR1aTB3dml5NnJkd25zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" alt="Studying" width="150" height="150"/>
-</p>
+Technology | Project Management | Business | Marketing | Design
 
+<br>
 
-### 💻 Languages and Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E31B23?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-8B000F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" style="margin: 10px;"/>
-</p>
-
+</div>
 
 ---
 
-### Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/gianne-dasco/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/GigiDasco20" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-8e44ad?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@crizzleeeedsc?_t=ZS-8ts4hnZvVpf&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-9b59b6?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/crizzledsc?igsh=aXl6OWxycGttOGQy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## About Me
+
+I am **Gianne Crizzle Dasco**, a Bachelor of Science in Information Technology student at the **Polytechnic University of the Philippines – Manila**.
+
+My experience and interests span technology, project management, business, marketing, and design. I enjoy working across different areas of a project, from understanding requirements and developing solutions to organizing teams, shaping strategies, and communicating ideas effectively.
+
+I am particularly interested in opportunities that allow me to strengthen my technical capabilities while continuing to develop as a leader, communicator, and project professional.
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/56/ef/16/56ef16ccc70e6bd97f40bd286942979f.jpg" alt="Banner" width="60%" />
-</p>
+## Areas of Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Technology
+
+- Web Development
+- Frontend Development
+- Full-Stack Development
+- UI/UX Design
+- Version Control
+- Technical Project Planning
+
+</td>
+
+<td width="50%" valign="top">
+
+### Strategy & Management
+
+- Project Management
+- Team Coordination
+- Product Ideation
+- Business Strategy
+- Marketing Strategy
+- Content Strategy
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech & Tools
+
+<div align="center">
+
+### Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E31B23?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B000F?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-300006?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E31B23?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B0B0D?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8B000F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Design & Productivity
+
+![Figma](https://img.shields.io/badge/Figma-E31B23?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-8B000F?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-300006?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-0B0B0D?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+## Leadership & Communication
+
+Beyond technical work, I have experience in areas that support effective team and project leadership.
+
+- Project and team coordination
+- Leadership and organizational management
+- Public speaking and presentations
+- Hosting and event communication
+- Pitching and idea presentation
+- Collaboration across technical, creative, and business roles
+- Marketing and content planning
+
+I value clear communication, accountability, continuous learning, and creating environments where people are comfortable contributing and developing their skills.
+
+---
+
+## Current Focus
+
+```text
+learning
+├── strengthening technical foundations
+├── improving full-stack development skills
+├── exploring emerging technologies
+└── expanding practical industry knowledge
+
+developing
+├── project management
+├── technical leadership
+├── communication
+└── strategic thinking
